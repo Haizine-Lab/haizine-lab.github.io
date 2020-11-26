@@ -1,0 +1,4 @@
+.jekyll-metadata
+_site/*
+.sass-cache/*
+node_modules/*
